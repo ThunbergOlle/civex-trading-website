@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+
+}
+.centerSearch {
+    margin-left: 33%;
+    margin-right: 33%;
+}
+.box {
+    width: 6.5em;
+    height: 6.5em;
+    background-color: #f2f2f2;
+    outline-color: #e6e6e6;
+    outline-width: 2px;
+    outline-style: solid;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+}
