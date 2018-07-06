@@ -42,6 +42,11 @@ mongodb.connect('mongodb://127.0.0.1/civex', function(err, db){
         });
         visits += 1;
     });
+    app.get('/selling', (req, res) => {
+        res.render('selling', {
+
+        });
+    });
 });
 app.listen(port, function(){
     signale.success('Listening to port: ' + port);

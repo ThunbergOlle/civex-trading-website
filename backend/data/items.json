@@ -3,25 +3,25 @@
     "id": 256,
     "displayName": "Iron Shovel",
     "stackSize": 1,
-    "name": "iron_shovel"
+    "name": "ironshovel"
   },
   {
     "id": 257,
     "displayName": "Iron Pickaxe",
     "stackSize": 1,
-    "name": "iron_pickaxe"
+    "name": "ironpickaxe"
   },
   {
     "id": 258,
     "displayName": "Iron Axe",
     "stackSize": 1,
-    "name": "iron_axe"
+    "name": "ironaxe"
   },
   {
     "id": 259,
     "displayName": "Flint and Steel",
     "stackSize": 1,
-    "name": "flint_and_steel"
+    "name": "flintandsteel"
   },
   {
     "id": 260,
@@ -67,91 +67,91 @@
     "id": 265,
     "displayName": "Iron Ingot",
     "stackSize": 64,
-    "name": "iron_ingot"
+    "name": "ironingot"
   },
   {
     "id": 266,
     "displayName": "Gold Ingot",
     "stackSize": 64,
-    "name": "gold_ingot"
+    "name": "Goldingot"
   },
   {
     "id": 267,
     "displayName": "Iron Sword",
     "stackSize": 1,
-    "name": "iron_sword"
+    "name": "ironsword"
   },
   {
     "id": 268,
     "displayName": "Wooden Sword",
     "stackSize": 1,
-    "name": "wooden_sword"
+    "name": "woodensword"
   },
   {
     "id": 269,
     "displayName": "Wooden Shovel",
     "stackSize": 1,
-    "name": "wooden_shovel"
+    "name": "woodenshovel"
   },
   {
     "id": 270,
     "displayName": "Wooden Pickaxe",
     "stackSize": 1,
-    "name": "wooden_pickaxe"
+    "name": "woodenpickaxe"
   },
   {
     "id": 271,
     "displayName": "Wooden Axe",
     "stackSize": 1,
-    "name": "wooden_axe"
+    "name": "woodenaxe"
   },
   {
     "id": 272,
     "displayName": "Stone Sword",
     "stackSize": 1,
-    "name": "stone_sword"
+    "name": "stonesword"
   },
   {
     "id": 273,
     "displayName": "Stone Shovel",
     "stackSize": 1,
-    "name": "stone_shovel"
+    "name": "stoneshovel"
   },
   {
     "id": 274,
     "displayName": "Stone Pickaxe",
     "stackSize": 1,
-    "name": "stone_pickaxe"
+    "name": "stonepickaxe"
   },
   {
     "id": 275,
     "displayName": "Stone Axe",
     "stackSize": 1,
-    "name": "stone_axe"
+    "name": "stoneaxe"
   },
   {
     "id": 276,
     "displayName": "Diamond Sword",
     "stackSize": 1,
-    "name": "diamond_sword"
+    "name": "diamondsword"
   },
   {
     "id": 277,
     "displayName": "Diamond Shovel",
     "stackSize": 1,
-    "name": "diamond_shovel"
+    "name": "diamondshovel"
   },
   {
     "id": 278,
     "displayName": "Diamond Pickaxe",
     "stackSize": 1,
-    "name": "diamond_pickaxe"
+    "name": "diamondpickaxe"
   },
   {
     "id": 279,
     "displayName": "Diamond Axe",
     "stackSize": 1,
-    "name": "diamond_axe"
+    "name": "diamondaxe"
   },
   {
     "id": 280,
@@ -169,31 +169,31 @@
     "id": 282,
     "displayName": "Mushroom Stew",
     "stackSize": 1,
-    "name": "mushroom_stew"
+    "name": "mushroomstew"
   },
   {
     "id": 283,
-    "displayName": "Golden Sword",
+    "displayName": "Gold Sword",
     "stackSize": 1,
-    "name": "golden_sword"
+    "name": "Goldsword"
   },
   {
     "id": 284,
-    "displayName": "Golden Shovel",
+    "displayName": "Gold Shovel",
     "stackSize": 1,
-    "name": "golden_shovel"
+    "name": "Goldshovel"
   },
   {
     "id": 285,
-    "displayName": "Golden Pickaxe",
+    "displayName": "Gold Pickaxe",
     "stackSize": 1,
-    "name": "golden_pickaxe"
+    "name": "Goldpickaxe"
   },
   {
     "id": 286,
-    "displayName": "Golden Axe",
+    "displayName": "Gold Axe",
     "stackSize": 1,
-    "name": "golden_axe"
+    "name": "Goldaxe"
   },
   {
     "id": 287,
@@ -217,37 +217,37 @@
     "id": 290,
     "displayName": "Wooden Hoe",
     "stackSize": 1,
-    "name": "wooden_hoe"
+    "name": "woodenhoe"
   },
   {
     "id": 291,
     "displayName": "Stone Hoe",
     "stackSize": 1,
-    "name": "stone_hoe"
+    "name": "stonehoe"
   },
   {
     "id": 292,
     "displayName": "Iron Hoe",
     "stackSize": 1,
-    "name": "iron_hoe"
+    "name": "ironhoe"
   },
   {
     "id": 293,
     "displayName": "Diamond Hoe",
     "stackSize": 1,
-    "name": "diamond_hoe"
+    "name": "diamondhoe"
   },
   {
     "id": 294,
-    "displayName": "Golden Hoe",
+    "displayName": "Gold Hoe",
     "stackSize": 1,
-    "name": "golden_hoe"
+    "name": "Goldhoe"
   },
   {
     "id": 295,
     "displayName": "Seeds",
     "stackSize": 64,
-    "name": "wheat_seeds"
+    "name": "wheatseeds"
   },
   {
     "id": 296,
@@ -265,121 +265,121 @@
     "id": 298,
     "displayName": "Leather Cap",
     "stackSize": 1,
-    "name": "leather_helmet"
+    "name": "leatherhelmet"
   },
   {
     "id": 299,
     "displayName": "Leather Tunic",
     "stackSize": 1,
-    "name": "leather_chestplate"
+    "name": "leatherchestplate"
   },
   {
     "id": 300,
     "displayName": "Leather Pants",
     "stackSize": 1,
-    "name": "leather_leggings"
+    "name": "leatherleggings"
   },
   {
     "id": 301,
     "displayName": "Leather Boots",
     "stackSize": 1,
-    "name": "leather_boots"
+    "name": "leatherboots"
   },
   {
     "id": 302,
     "displayName": "Chain Helmet",
     "stackSize": 1,
-    "name": "chainmail_helmet"
+    "name": "chainmailhelmet"
   },
   {
     "id": 303,
     "displayName": "Chain Chestplate",
     "stackSize": 1,
-    "name": "chainmail_chestplate"
+    "name": "chainmailchestplate"
   },
   {
     "id": 304,
     "displayName": "Chain Leggings",
     "stackSize": 1,
-    "name": "chainmail_leggings"
+    "name": "chainmailleggings"
   },
   {
     "id": 305,
     "displayName": "Chain Boots",
     "stackSize": 1,
-    "name": "chainmail_boots"
+    "name": "chainmailboots"
   },
   {
     "id": 306,
     "displayName": "Iron Helmet",
     "stackSize": 1,
-    "name": "iron_helmet"
+    "name": "ironhelmet"
   },
   {
     "id": 307,
     "displayName": "Iron Chestplate",
     "stackSize": 1,
-    "name": "iron_chestplate"
+    "name": "ironchestplate"
   },
   {
     "id": 308,
     "displayName": "Iron Leggings",
     "stackSize": 1,
-    "name": "iron_leggings"
+    "name": "ironleggings"
   },
   {
     "id": 309,
     "displayName": "Iron Boots",
     "stackSize": 1,
-    "name": "iron_boots"
+    "name": "ironboots"
   },
   {
     "id": 310,
     "displayName": "Diamond Helmet",
     "stackSize": 1,
-    "name": "diamond_helmet"
+    "name": "diamondhelmet"
   },
   {
     "id": 311,
     "displayName": "Diamond Chestplate",
     "stackSize": 1,
-    "name": "diamond_chestplate"
+    "name": "diamondchestplate"
   },
   {
     "id": 312,
     "displayName": "Diamond Leggings",
     "stackSize": 1,
-    "name": "diamond_leggings"
+    "name": "diamondleggings"
   },
   {
     "id": 313,
     "displayName": "Diamond Boots",
     "stackSize": 1,
-    "name": "diamond_boots"
+    "name": "diamondboots"
   },
   {
     "id": 314,
-    "displayName": "Golden Helmet",
+    "displayName": "Gold Helmet",
     "stackSize": 1,
-    "name": "golden_helmet"
+    "name": "Goldhelmet"
   },
   {
     "id": 315,
-    "displayName": "Golden Chestplate",
+    "displayName": "Gold Chestplate",
     "stackSize": 1,
-    "name": "golden_chestplate"
+    "name": "Goldchestplate"
   },
   {
     "id": 316,
-    "displayName": "Golden Leggings",
+    "displayName": "Gold Leggings",
     "stackSize": 1,
-    "name": "golden_leggings"
+    "name": "Goldleggings"
   },
   {
     "id": 317,
-    "displayName": "Golden Boots",
+    "displayName": "Gold Boots",
     "stackSize": 1,
-    "name": "golden_boots"
+    "name": "Goldboots"
   },
   {
     "id": 318,
@@ -397,7 +397,7 @@
     "id": 320,
     "displayName": "Cooked Porkchop",
     "stackSize": 64,
-    "name": "cooked_porkchop"
+    "name": "cookedporkchop"
   },
   {
     "id": 321,
@@ -407,17 +407,17 @@
   },
   {
     "id": 322,
-    "displayName": "Golden Apple",
+    "displayName": "Gold Apple",
     "stackSize": 64,
-    "name": "golden_apple",
+    "name": "Goldapple",
     "variations": [
       {
         "metadata": 0,
-        "displayName": "Golden Apple"
+        "displayName": "Gold Apple"
       },
       {
         "metadata": 1,
-        "displayName": "Enchanted Golden Apple"
+        "displayName": "Enchanted Gold Apple"
       }
     ]
   },
@@ -431,7 +431,7 @@
     "id": 324,
     "displayName": "Oak Door",
     "stackSize": 64,
-    "name": "wooden_door"
+    "name": "woodendoor"
   },
   {
     "id": 325,
@@ -443,13 +443,13 @@
     "id": 326,
     "displayName": "Water Bucket",
     "stackSize": 64,
-    "name": "water_bucket"
+    "name": "waterbucket"
   },
   {
     "id": 327,
     "displayName": "Lava Bucket",
     "stackSize": 64,
-    "name": "lava_bucket"
+    "name": "lavabucket"
   },
   {
     "id": 328,
@@ -467,7 +467,7 @@
     "id": 330,
     "displayName": "Iron Door",
     "stackSize": 64,
-    "name": "iron_door"
+    "name": "irondoor"
   },
   {
     "id": 331,
@@ -497,7 +497,7 @@
     "id": 335,
     "displayName": "Milk",
     "stackSize": 1,
-    "name": "milk_bucket"
+    "name": "milkbucket"
   },
   {
     "id": 336,
@@ -509,7 +509,7 @@
     "id": 337,
     "displayName": "Clay",
     "stackSize": 64,
-    "name": "clay_ball"
+    "name": "clayball"
   },
   {
     "id": 338,
@@ -533,19 +533,19 @@
     "id": 341,
     "displayName": "Slimeball",
     "stackSize": 64,
-    "name": "slime_ball"
+    "name": "slimeball"
   },
   {
     "id": 342,
     "displayName": "Minecart with Chest",
     "stackSize": 1,
-    "name": "chest_minecart"
+    "name": "chestminecart"
   },
   {
     "id": 343,
     "displayName": "Minecart with Furnace",
     "stackSize": 1,
-    "name": "furnace_minecart"
+    "name": "furnaceminecart"
   },
   {
     "id": 344,
@@ -563,7 +563,7 @@
     "id": 346,
     "displayName": "Fishing Rod",
     "stackSize": 1,
-    "name": "fishing_rod"
+    "name": "fishingrod"
   },
   {
     "id": 347,
@@ -575,7 +575,7 @@
     "id": 348,
     "displayName": "Glowstone Dust",
     "stackSize": 64,
-    "name": "glowstone_dust"
+    "name": "glowstonedust"
   },
   {
     "id": 349,
@@ -605,7 +605,7 @@
     "id": 350,
     "displayName": "Cooked Fish",
     "stackSize": 64,
-    "name": "cooked_fish"
+    "name": "cookedfish"
   },
   {
     "id": 351,
@@ -719,7 +719,7 @@
     "id": 358,
     "displayName": "Map",
     "stackSize": 64,
-    "name": "filled_map"
+    "name": "filledmap"
   },
   {
     "id": 359,
@@ -737,13 +737,13 @@
     "id": 361,
     "displayName": "Pumpkin Seeds",
     "stackSize": 64,
-    "name": "pumpkin_seeds"
+    "name": "pumpkinseeds"
   },
   {
     "id": 362,
     "displayName": "Melon Seeds",
     "stackSize": 64,
-    "name": "melon_seeds"
+    "name": "melonseeds"
   },
   {
     "id": 363,
@@ -755,7 +755,7 @@
     "id": 364,
     "displayName": "Steak",
     "stackSize": 64,
-    "name": "cooked_beef"
+    "name": "cookedbeef"
   },
   {
     "id": 365,
@@ -767,85 +767,85 @@
     "id": 366,
     "displayName": "Cooked Chicken",
     "stackSize": 64,
-    "name": "cooked_chicken"
+    "name": "cookedchicken"
   },
   {
     "id": 367,
     "displayName": "Rotten Flesh",
     "stackSize": 64,
-    "name": "rotten_flesh"
+    "name": "rottenflesh"
   },
   {
     "id": 368,
     "displayName": "Ender Pearl",
     "stackSize": 16,
-    "name": "ender_pearl"
+    "name": "enderpearl"
   },
   {
     "id": 369,
     "displayName": "Blaze Rod",
     "stackSize": 64,
-    "name": "blaze_rod"
+    "name": "blazerod"
   },
   {
     "id": 370,
     "displayName": "Ghast Tear",
     "stackSize": 64,
-    "name": "ghast_tear"
+    "name": "ghasttear"
   },
   {
     "id": 371,
     "displayName": "Gold Nugget",
     "stackSize": 64,
-    "name": "gold_nugget"
+    "name": "Goldnugget"
   },
   {
     "id": 372,
     "displayName": "Nether Wart",
     "stackSize": 64,
-    "name": "nether_wart"
+    "name": "netherwart"
   },
   {
     "id": 373,
     "displayName": "Potion",
     "stackSize": 1,
-    "name": "potion"
+    "name": "thickpotion"
   },
   {
     "id": 374,
     "displayName": "Glass Bottle",
     "stackSize": 64,
-    "name": "glass_bottle"
+    "name": "glassbottle"
   },
   {
     "id": 375,
     "displayName": "Spider Eye",
     "stackSize": 64,
-    "name": "spider_eye"
+    "name": "spidereye"
   },
   {
     "id": 376,
     "displayName": "Fermented Spider Eye",
     "stackSize": 64,
-    "name": "fermented_spider_eye"
+    "name": "fermentedspidereye"
   },
   {
     "id": 377,
     "displayName": "Blaze Powder",
     "stackSize": 64,
-    "name": "blaze_powder"
+    "name": "blazepowder"
   },
   {
     "id": 378,
     "displayName": "Magma Cream",
     "stackSize": 64,
-    "name": "magma_cream"
+    "name": "magmacream"
   },
   {
     "id": 379,
     "displayName": "Brewing Stand",
     "stackSize": 64,
-    "name": "brewing_stand"
+    "name": "brewingstand"
   },
   {
     "id": 380,
@@ -857,43 +857,43 @@
     "id": 381,
     "displayName": "Eye of Ender",
     "stackSize": 64,
-    "name": "ender_eye"
+    "name": "endereye"
   },
   {
     "id": 382,
     "displayName": "Glistering Melon",
     "stackSize": 64,
-    "name": "speckled_melon"
+    "name": "speckledmelon"
   },
   {
     "id": 383,
     "displayName": "Spawn Egg",
     "stackSize": 64,
-    "name": "spawn_egg"
+    "name": "spawnegg"
   },
   {
     "id": 384,
     "displayName": "Bottle o' Enchanting",
     "stackSize": 64,
-    "name": "experience_bottle"
+    "name": "experiencebottle"
   },
   {
     "id": 385,
     "displayName": "Fire Charge",
     "stackSize": 64,
-    "name": "fire_charge"
+    "name": "firecharge"
   },
   {
     "id": 386,
     "displayName": "Book and Quill",
     "stackSize": 1,
-    "name": "writable_book"
+    "name": "writablebook"
   },
   {
     "id": 387,
     "displayName": "Written Book",
     "stackSize": 16,
-    "name": "written_book"
+    "name": "writtenbook"
   },
   {
     "id": 388,
@@ -905,13 +905,13 @@
     "id": 389,
     "displayName": "Item Frame",
     "stackSize": 64,
-    "name": "item_frame"
+    "name": "itemframe"
   },
   {
     "id": 390,
     "displayName": "Flower Pot",
     "stackSize": 64,
-    "name": "flower_pot",
+    "name": "flowerpot",
     "variations": [
       {
         "metadata": 0,
@@ -987,13 +987,13 @@
     "id": 393,
     "displayName": "Baked Potato",
     "stackSize": 64,
-    "name": "baked_potato"
+    "name": "bakedpotato"
   },
   {
     "id": 394,
     "displayName": "Poisonous Potato",
     "stackSize": 64,
-    "name": "poisonous_potato"
+    "name": "poisonouspotato"
   },
   {
     "id": 395,
@@ -1003,9 +1003,9 @@
   },
   {
     "id": 396,
-    "displayName": "Golden Carrot",
+    "displayName": "Gold Carrot",
     "stackSize": 64,
-    "name": "golden_carrot"
+    "name": "Goldcarrot"
   },
   {
     "id": 397,
@@ -1039,19 +1039,19 @@
     "id": 398,
     "displayName": "Carrot on a Stick",
     "stackSize": 1,
-    "name": "carrot_on_a_stick"
+    "name": "carrotonastick"
   },
   {
     "id": 399,
     "displayName": "Nether Star",
     "stackSize": 64,
-    "name": "nether_star"
+    "name": "netherstar"
   },
   {
     "id": 400,
     "displayName": "Pumpkin Pie",
     "stackSize": 64,
-    "name": "pumpkin_pie"
+    "name": "pumpkinpie"
   },
   {
     "id": 401,
@@ -1063,13 +1063,13 @@
     "id": 402,
     "displayName": "Firework Star",
     "stackSize": 64,
-    "name": "firework_charge"
+    "name": "fireworkcharge"
   },
   {
     "id": 403,
     "displayName": "Enchanted Book",
     "stackSize": 1,
-    "name": "enchanted_book"
+    "name": "enchantedbook"
   },
   {
     "id": 404,
@@ -1093,25 +1093,25 @@
     "id": 407,
     "displayName": "Minecart with TNT",
     "stackSize": 1,
-    "name": "tnt_minecart"
+    "name": "tntminecart"
   },
   {
     "id": 408,
     "displayName": "Minecart with Hopper",
     "stackSize": 1,
-    "name": "hopper_minecart"
+    "name": "hopperminecart"
   },
   {
     "id": 409,
     "displayName": "Prismarine Shard",
     "stackSize": 64,
-    "name": "prismarine_shard"
+    "name": "prismarineshard"
   },
   {
     "id": 410,
     "displayName": "Prismarine Crystals",
     "stackSize": 64,
-    "name": "prismarine_crystals"
+    "name": "prismarinecrystals"
   },
   {
     "id": 411,
@@ -1123,49 +1123,49 @@
     "id": 412,
     "displayName": "Cooked Rabbit",
     "stackSize": 64,
-    "name": "cooked_rabbit"
+    "name": "cookedrabbit"
   },
   {
     "id": 413,
     "displayName": "Rabbit Stew",
     "stackSize": 1,
-    "name": "rabbit_stew"
+    "name": "rabbitstew"
   },
   {
     "id": 414,
     "displayName": "Rabbit's Foot",
     "stackSize": 64,
-    "name": "rabbit_foot"
+    "name": "rabbitfoot"
   },
   {
     "id": 415,
     "displayName": "Rabbit Hide",
     "stackSize": 64,
-    "name": "rabbit_hide"
+    "name": "rabbithide"
   },
   {
     "id": 416,
     "displayName": "Armor Stand",
     "stackSize": 16,
-    "name": "armor_stand"
+    "name": "armorstand"
   },
   {
     "id": 417,
     "displayName": "Iron Horse Armor",
     "stackSize": 1,
-    "name": "iron_horse_armor"
+    "name": "ironhorsearmor"
   },
   {
     "id": 418,
-    "displayName": "Golden Horse Armor",
+    "displayName": "Gold Horse Armor",
     "stackSize": 1,
-    "name": "golden_horse_armor"
+    "name": "Goldhorsearmor"
   },
   {
     "id": 419,
     "displayName": "Diamond Horse Armor",
     "stackSize": 1,
-    "name": "diamond_horse_armor"
+    "name": "diamondhorsearmor"
   },
   {
     "id": 420,
@@ -1177,13 +1177,13 @@
     "id": 421,
     "displayName": "Name Tag",
     "stackSize": 64,
-    "name": "name_tag"
+    "name": "nametag"
   },
   {
     "id": 422,
     "displayName": "Minecart with Command Block",
     "stackSize": 1,
-    "name": "command_block_minecart"
+    "name": "commandblockminecart"
   },
   {
     "id": 423,
@@ -1195,7 +1195,7 @@
     "id": 424,
     "displayName": "Cooked Mutton",
     "stackSize": 64,
-    "name": "cooked_mutton"
+    "name": "cookedmutton"
   },
   {
     "id": 425,
@@ -1207,102 +1207,30 @@
     "id": 427,
     "displayName": "Spruce Door",
     "stackSize": 64,
-    "name": "spruce_door"
+    "name": "sprucedoor"
   },
   {
     "id": 428,
     "displayName": "Birch Door",
     "stackSize": 64,
-    "name": "birch_door"
+    "name": "birchdoor"
   },
   {
     "id": 429,
     "displayName": "Jungle Door",
     "stackSize": 64,
-    "name": "jungle_door"
+    "name": "jungledoor"
   },
   {
     "id": 430,
     "displayName": "Acacia Door",
     "stackSize": 64,
-    "name": "acacia_door"
+    "name": "acaciadoor"
   },
   {
     "id": 431,
     "displayName": "Dark Oak Door",
     "stackSize": 64,
-    "name": "dark_oak_door"
-  },
-  {
-    "id": 2256,
-    "displayName": "13 Disc",
-    "stackSize": 1,
-    "name": "record_13"
-  },
-  {
-    "id": 2257,
-    "displayName": "Cat Disc",
-    "stackSize": 1,
-    "name": "record_cat"
-  },
-  {
-    "id": 2258,
-    "displayName": "Blocks Disc",
-    "stackSize": 1,
-    "name": "record_blocks"
-  },
-  {
-    "id": 2259,
-    "displayName": "Chirp Disc",
-    "stackSize": 1,
-    "name": "record_chirp"
-  },
-  {
-    "id": 2260,
-    "displayName": "Far Disc",
-    "stackSize": 1,
-    "name": "record_far"
-  },
-  {
-    "id": 2261,
-    "displayName": "Mall Disc",
-    "stackSize": 1,
-    "name": "record_mall"
-  },
-  {
-    "id": 2262,
-    "displayName": "Mellohi Disc",
-    "stackSize": 1,
-    "name": "record_mellohi"
-  },
-  {
-    "id": 2263,
-    "displayName": "Stal Disc",
-    "stackSize": 1,
-    "name": "record_stal"
-  },
-  {
-    "id": 2264,
-    "displayName": "Strad Disc",
-    "stackSize": 1,
-    "name": "record_strad"
-  },
-  {
-    "id": 2265,
-    "displayName": "Ward Disc",
-    "stackSize": 1,
-    "name": "record_ward"
-  },
-  {
-    "id": 2266,
-    "displayName": "11 Disc",
-    "stackSize": 1,
-    "name": "record_11"
-  },
-  {
-    "id": 2267,
-    "displayName": "Wait Disc",
-    "stackSize": 1,
-    "name": "record_wait"
+    "name": "darkoakdoor"
   }
 ]

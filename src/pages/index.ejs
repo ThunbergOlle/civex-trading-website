@@ -9,29 +9,34 @@
         <title>Civex Item Prices</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
         <script src="https://cdnjs.com/libraries/Chart.js"></script>
+        <link rel="stylesheet" href="style.css">
+        <script src="/scripts/search.js"></script>
     </head>
     <body>
         <div class="center">
-            <h1 style="padding-top: 0.8em;">Civex Item Values</h1>
+            <h1 style="padding-top: 0.8em;">Item Value List</h1>
             <p><em>The place where you can find item values</em></p>
             <div class="form-group centerSearch">
                 <label for="item"><strong>Search for an item:</strong></label>
-                <input type="text" class="form-control" id="item" placeholder="I'm looking for melons...">
+                <input type="text" class="form-control" id="itemSearch" placeholder="I'm looking for melons..." onkeyup="search();">
             </div>
-            <ul class="itemlist">
-                <li>
-                    <div class="box">
-                        <p style="padding:0; margin: 0; padding-bottom: 5px;">Iron Pickaxe</p>
-                        <p style="padding:0; margin: 0; padding-bottom: 10px;">ID: <em>256</em></p>
-                        <a class="btn btn-success btn-sm" style="color: white">Check</a>
-                    </div>
-                </li>
+            <ul class="itemlist" id="ullist">
+                <% for(var i = 0; i < items.length; i++){%>
+                    <li>
+                        <div class="box">
+                            <img src="/data/icons/<%=items[i].name%>_icon32.png" onerror="this.src='/data/icons/unknown_icon32.png'">
+                            <p style="padding:0; margin: 0; padding-bottom: 2px;">ID: <em><%= items[i].id %></em></p>
+                            <d class="displayName"><%= items[i].displayName.substring(0, 9); %>..</d>
+                            <a class="btn btn-success btn-sm" style="color: white">Check</a>
+                        </div>
+                    </li>
+                <%}%>
+
             </ul>
         </div>
         <script src="" async defer></script>
