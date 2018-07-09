@@ -33,15 +33,54 @@ ul li {
     position: absolute;
 }
 ul {
-    margin-left: 15%;
-    margin-right: 15%;
+    width: 40em;
+}
+#ullist {
+    width: 98%;
 }
 .listingBox p {
     margin: 0;
     display: inline-block;
     padding: 0;
+    
+}
+.subFormInput {
+    margin-left: 2em;
 }
 #arrow {
     padding-right: 5px;
     padding-left: 5px;
+}
+.sellinglisting{
+    display: inline-block;
+    width: 40em;
+}
+.sellinglisting ul li {
+    margin: 10px;
+    display: block;
+}
+.buyinglisting ul li {
+    margin: 10px;
+    display: block;
+}
+.buyinglisting {
+    display: inline-block;
+    width: 40em;
+}
+.buyinglisting ul li{
+    display: block;
+}
+.loginFormCenter {
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+.lisingBox {
+    width: 30em;
+    border-width: 5px;
+    border-color: #b5b5b7;
+    padding: 5px;
+    border-radius: 8px;
+    border-style: solid;
+    display: inline-block;
 }
