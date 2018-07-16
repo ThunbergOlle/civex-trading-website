@@ -25,30 +25,48 @@
         <div class="loginFormCenter">
         <form method="POST" action="/selling/add">
             <div class="form-group">
+                <label for="ingameName">Name ingame</label>
+                <input type="name" id="ingameName" name="ingameName" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="discord" >Discord tag</label>
+                <input type="name" placeholder="exampe#4312" id="discord" name="discord" class="form-control">
+            </div>
+            <div class="form-group">    
                 <label for="cityName">City / Country Name</label>
                 <input type="name" id="cityName" name="cityName" class="form-control">
+            </div>
+            <div class="form-group">  
                 <label for="location">Cordinates</label>
                 <input type="number" step="0.01" id="location" name="location" class="form-control">
+            </div>             
+            <div class="form-group">
                 <label for="iOffer">I offer</label>
                 <select id="iOffer" name="iOffer" class="form-control">
                 <% for (var i = 0; i < items.length; i++) {%>
                     <option value="<%=items[i].displayName%>"><%=items[i].displayName%></option>
                 <%}%>
                 </select>
+            </div>
+            <div class="form-group">  
                 <div class="subFormInput">
                 <em>Amount</em>
                 <input type="number" id="Oamount0" class="form-control" name="Oamount0" value="1">
                 </div>
+            </div>            
+            <div class="form-group">  
                 <label for="iWant">I want</label>
                 <select id="iWant" name="iWant" class="form-control">
                 <% for (var i = 0; i < items.length; i++) {%>
                     <option value="<%=items[i].displayName%>"><%=items[i].displayName%></option>
                 <%}%>
                 </select>
+            </div>
+            <div class="form-group">  
                 <div class="subFormInput">
                 <em>Amount</em>
                 <input type="number" id="Wamount0" class="form-control" name="Wamount0" value="1">
-                </div>
+            </div>
                 <p><em>Spamming and setting up fakes requests in order to manipulate prices will get removed and banned</em></p>
                 <button type="submit" class="btn btn-success" style="margin-top: 2px">Submit</button>
             </div>

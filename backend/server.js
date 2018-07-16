@@ -52,6 +52,27 @@ mongodb.connect('mongodb://127.0.0.1/civex', function(err, db){
             items: items
         });
     });
+    app.post('/selling/add', (req, res) => {
+        console.log(req);
+        let iOfferNumbers = 1;
+        let data = req.body;
+        console.log(data);
+        let ign = data.ingameName;
+        let discord = data.discord;
+        let city = data.cityName;
+        let cords = data.location;
+        let iOffer = [{
+            item: data.iOffer,
+            amount: data.Oamount0
+        }];
+        let iWant = [{
+            item: data.iWant,
+            amount: data.Wamount0
+        }];
+        let sellingsDB = db.db("tradesselling");
+        dbo.insert({ign: ign, discord: discord, city: city, cords: cords, iOffer: iOffer, iWant: iWant});
+        res.redirect('/selling');
+    });
 });
 app.listen(port, function(){
     signale.success('Listening to port: ' + port);
